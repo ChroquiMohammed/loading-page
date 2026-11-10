@@ -6,7 +6,7 @@ Practice project.
 
 ## Preview
 
-![Loading Page Preview](./public/image/screenshot.png)
+![Loading Page Preview](./Preveiw_Page.jpg)
 
 ## About
 
